@@ -1,0 +1,10 @@
+SQLite DATABASE:
+    Database name  = Mydb
+    Table name = MOVIEE
+    Attributes/Column name = ID,NAME,ACTOR,ACTRESS,DIRECTOR,YEAR
+
+PROCEDURE:
+    1) Sqlite.py --> Table is created
+    2) SqLiteInsertion.py --> Records are inserted into the table MOVIE
+    3) SqLiteSelection.py --> Records are display using SELECT Query
+    4) SqLiteSelectionBasedOnActor.py --> Selection performed based on actor name ( To display movie details when Actor name is Surya)
